@@ -6,7 +6,7 @@ It’s originally based on the case study "'Sophisticated, Clear, and Polished�
 ### Dataset
 * We will be using the [Divvy dataset](https://www.kaggle.com/datasets/yingwurenjian/chicago-divvy-bicycle-sharing-data) for the case study. Divvy is Chicago-based bike-share program that features nearly 6,000 bicycles and more than 600 docking stations.
 ### Documentation of cleaning or manipulation of data
-* The purpose of this report is to consolidate downloaded Divvy data into a single dataframe and then conduct simple analysis to help answer the key question: “In what ways do members and casual riders use Divvy bikes differently?”
+* The purpose of this [report](https://ngctramnl.github.io/bike-share/) is to consolidate downloaded Divvy data into a single dataframe and then conduct simple analysis to help answer the key question: “In what ways do members and casual riders use Divvy bikes differently?”
 ### Conclusions
 * Casual riders tend to use bikes longer than members. 
 * Casual riders spend more time using Cylistic bikes than members across the week. 
