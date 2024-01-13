@@ -10,4 +10,4 @@
 ## Conclusions
 * Casual riders tend to use bikes longer than members. 
 * Casual riders spend more time using Cylistic bikes than members across the week. 
-* Members use bikes proportionally across the week, while casual riders particularly stay longer on Thursday and Friday. This could be because they want to maximise the money they’ve spent on their hire. 
+* Members use bikes proportionally across the week, while casual riders particularly stay longer on Thursday and Friday. This could be because they want to maximise the money they’ve spent on their ride. 
