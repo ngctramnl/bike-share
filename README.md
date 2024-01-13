@@ -1,5 +1,5 @@
 # Bike-share program analysis
-## Summary
+## About
 * This analysis is for case study 1 from the Google Data Analytics Certificate (Cyclistic). It’s originally based on the case study "'Sophisticated, Clear, and Polished’: Divvy and Data Visualization" written by Kevin Hartman (found here: https://artscience.blog/home/divvy-dataviz-case-study).
 ## Business tasks
 *  Understand how casual riders and annual members use bikes differently
