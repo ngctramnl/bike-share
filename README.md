@@ -10,7 +10,11 @@ Divvy is Chicago-based bike-share program that features nearly 6,000 bicycles an
 ## Conclusions
 * Casual riders tend to use bikes longer than members. This could be because they want to maximise the money they’ve spent on their ride.
 * Casual riders spend more time using Cylistic bikes than members across the week. 
-* Members use bikes proportionally across the week, while casual riders particularly stay longer on Thursday and Friday. 
+* Members use bikes proportionally across the week, while casual riders particularly stay longer on Thursday and Friday.
+
+## Suggestions
+* The company can convert casual riders to annual members by giving **discounts for longer rides for annual members**. The discount acts as an incentive for casual riders to become annual members to enjoy the discount.
+* The promotion for longer rides should be on **Thursday** or **Friday** as these are days when most casual riders would use bikes longer.
 
 ## References
 * Google Data Analytics Certificate - Case study 1 guide
